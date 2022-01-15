@@ -113,7 +113,7 @@ class NN():
         :param y:
         :param epoch:
         :param batch_size:
-        :param learning_rate:
+        :param learning_rate: The learning rate of the optimizer
         :param optimizer:
         :param loss_function:
         :return:
@@ -127,8 +127,8 @@ class NN():
             print(self.weights)
             idx = 0
             for w, b in zip(W_grad, b_grad):
-                self.weights[idx] = self.weights[idx] - 0.01 * w
-                self.bias[idx] = self.bias[idx] - 0.0001 * b
+                self.weights[idx] = self.weights[idx] - learning_rate * w
+                self.bias[idx] = self.bias[idx] - learning_rate * b
                 idx += 1
         return self
 
