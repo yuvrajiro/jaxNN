@@ -6,5 +6,6 @@ setup(name='jaxNN',
     author='Rahul Goswami',
     author_email='yuvrajiro@gmail.com',
     license='MIT',
-    packages=['jaxNN'],
+    packages=['A Simple JAX based Neural Network'],
+    scripts=['test/test_jaxNN.py'],
     zip_safe=False)
