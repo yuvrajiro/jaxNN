@@ -2,10 +2,10 @@ from setuptools import setup
 
 setup(name='jaxNN',
     version='0.1',
-    description='A Simple JAX based Neural Network',
+    description='jaxNN',
     author='Rahul Goswami',
     author_email='yuvrajiro@gmail.com',
     license='MIT',
-    packages=['A Simple JAX based Neural Network'],
+    packages=['jaxNN'],
     scripts=['test/test_jaxNN.py'],
     zip_safe=False)
