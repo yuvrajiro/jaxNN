@@ -118,7 +118,7 @@ class NN():
         :param loss_function:
         :return:
         """
-        self.weights, self.bias = self.backward_pass(x, y)
+
         self.x = x
         self.y = y
 
