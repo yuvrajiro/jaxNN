@@ -1,2 +1,2 @@
-from .Layers import layers
+from .Layers import layer
 from .jaxNN import NN
