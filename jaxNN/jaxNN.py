@@ -1,9 +1,11 @@
-from Layers import *
+
 import jax.numpy as jnp
 from jax import grad, jit, vmap
 from jax import random
 
-class jaxNN():
+
+
+class NN():
 
     """
     A simple neural network class using JAX from scratch that can be used to
