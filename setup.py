@@ -7,5 +7,6 @@ setup(name='jaxNN',
     author_email='yuvrajiro@gmail.com',
     license='MIT',
     packages=['jaxNN'],
+    install_requires=['jax', 'jaxlib', 'numpy', 'scipy', 'tqdm'],
     scripts=['test/test_jaxNN.py'],
     zip_safe=False)
