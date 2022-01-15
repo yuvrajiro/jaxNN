@@ -17,7 +17,7 @@ training so that the user can see how the Neural Network is training.
 :point_right: Use TQDM to show the progress of the training.  
 :point_right: Add different Layers  
 :point_right: Write Documentation so that anyone can understand how to use ,
-and update their code according to thier needs.
+and update their code according to thier needs.  
 :point_right: Add W&B to the project so that the user can see the progress 
 
 
