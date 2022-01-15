@@ -10,11 +10,11 @@ I wanted this project is easy to understand and easy to use. So I decided
 to make it from Scratch so that newcomers can understand how to build a 
 Neural Network , This leads to a very simple code. 
 
-TO DO:
+TO DO:  
 :point_right: Build a Neural Network  
 :point_right: Make an Animataion of the Neural Network which shows up while   
-training so that the user can see how the Neural Network is training. 
-:point_right: Use TQDM to show the progress of the training.   
+training so that the user can see how the Neural Network is training.  
+:point_right: Use TQDM to show the progress of the training.  
 :point_right: Add different Layers  
 :point_right: Write Documentation so that anyone can understand how to use ,
 and update their code according to thier needs.   
