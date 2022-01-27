@@ -21,6 +21,10 @@ and update their code according to thier needs.
 :point_right: Add W&B to the project so that the user can see the progress 
 
 
+An Example of feed-forward Neural Network
+![NEURAL NETWORK](nn.svg)
+
+
 ## About Me
 
 I am a Research Scholar at Indian Institute of Technology, Guwahati in the 

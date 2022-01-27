@@ -4,9 +4,7 @@ import jax.numpy as jnp
 
 class layer:
     """
-    A class for creating Layers
-
-    ...
+    A class for creating Layers.
 
     Attributes
     ----------
